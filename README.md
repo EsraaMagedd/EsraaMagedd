@@ -26,8 +26,7 @@
 
 <p>I am always looking for new opportunities to learn and grow. If you have any questions or if you would like to collaborate on a project, please feel free to contact me.</p>
 
-
-## 🧰 &nbsp;My toolbox
+<h3 align="left">My toolbox🧰</h3> <br>
 
 <img  src="https://water-data-explorer.readthedocs.io/en/v.1.1.4/_images/colab_icon.png" alt="GoogleColab" width="50" height="50"/> &nbsp;
 <img  src="https://smartai-blog.com/content/images/2021/03/jupyter-logo-2-1.png" alt="Jupyter" width="50" height="50"/> &nbsp;
