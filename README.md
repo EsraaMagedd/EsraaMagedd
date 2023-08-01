@@ -9,6 +9,15 @@ I'm a software developer who is passionate about creating technology to elevate 
 
 ## 🧰 &nbsp;My toolbox
 
-<img src="https://res.cloudinary.com/nitishk72/image/upload/v1586796259/nstack_in/courses/flutter/flutter-banner.png" alt="Flutter" width="120" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-
+<img  src="https://water-data-explorer.readthedocs.io/en/v.1.1.4/_images/colab_icon.png" alt="GoogleColab" width="50" height="50"/> &nbsp;
+<img  src="https://smartai-blog.com/content/images/2021/03/jupyter-logo-2-1.png" alt="Jupyter" width="50" height="50"/> &nbsp;
+<img  src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="50" height="50"/> &nbsp;
+<img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="50" height="50"/> &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" alt="Flutter" width="50" height="50"/> &nbsp;
+<img  src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" alt="Java" width="50" height="50"/> &nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="50" height="50"/> &nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="50" height="50"/> &nbsp;
+<img  src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="CLion" width="50" height="50"/> &nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="50" height="50"/> &nbsp;
+<img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" alt="Android Studio" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
 &nbsp;
