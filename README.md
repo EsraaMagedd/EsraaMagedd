@@ -1,10 +1,30 @@
-<h1 align="center">Hi there, I'm Esraa 👋</h1>
+<h1 align="center">Hey there, I'm Esraa 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/esraa-nassar-28337115b/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   <img src="https://github.com/EsraaMagedd/EsraaMagedd/blob/main/avatarMe.jpg" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path.
+
+<h3 align="left">About me💁🏻</h3>
+
+<p>I am a computer science student at the University of Sadat City who is passionate about building software. I am particularly interested in developing mobile applications and building AI/ML models. I am always looking for new challenges and I am always willing to learn new things.</p>
+
+<h3 align="left">Skills👩🏻‍💻</h3>
+<ul>
+<li>Git - GitHub</li>
+<li>Programming Languages:</li>
+<ul>
+<li>Dart – Flutter</li>
+<li>Java</li>
+<li>C++</li>
+<li>Python</li>
+<li>SQL using MS SQL Server</li>
+<li>HTML, CSS, and JavaScript</li>
+</ul>
+<li>Problem-solving – Codeforces</li>
+</ul>
+
+<p>I am always looking for new opportunities to learn and grow. If you have any questions or if you would like to collaborate on a project, please feel free to contact me.</p>
 
 
 ## 🧰 &nbsp;My toolbox
