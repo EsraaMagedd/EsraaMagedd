@@ -29,8 +29,6 @@
 </ul>
 <br>
 
-<p>I am always looking for new opportunities to learn and grow. If you have any questions or if you would like to collaborate on a project, please feel free to contact me.</p>
-
 <h3 align="left">My toolbox🧰</h3> <br>
 
 <img  src="https://water-data-explorer.readthedocs.io/en/v.1.1.4/_images/colab_icon.png" alt="GoogleColab" width="50" height="50"/> &nbsp;
@@ -52,8 +50,16 @@
 <img src="https://lh3.googleusercontent.com/evT0PYVOtM884y9n-UL4OW-Lp8L8FJcgdXM1GWAX0lLEaETdOX-g_S9aEI_WF4Mvcvw=w300" alt="CodeForces" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
 <img src="https://andyleonard.blog/wp-content/uploads/2022/01/SSMS_Logo.jpg" alt="Microsoft SQL server management" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="Microsoft SQL server management" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Google_Meet_icon_%282020%29.svg/2491px-Google_Meet_icon_%282020%29.svg.png" alt="Google meet" width="50" height="40" style="margin:0 auto; display:block;"/> &nbsp;
+<img src="https://static.vecteezy.com/system/resources/previews/016/716/479/non_2x/zoom-meetings-icon-free-png.png" alt="Zoom" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+<img src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" alt="Discord" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_teams_alt_macos_bigsur_icon_189961.png" alt="Microsoft teams" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+
 <br>
 <br>
+<br>
+
+<p>I am always looking for new opportunities to learn and grow. If you have any questions or if you would like to collaborate on a project, please feel free to contact me.</p>
 
 <p align="center">
   <i>Let's connect! Open to any contribution under the sun.</i>
