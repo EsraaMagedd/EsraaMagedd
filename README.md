@@ -7,8 +7,8 @@
 <br>
 
 <h3 align="left">Current Focus👩🏻‍💻</h3>
-<p> I'm currently interning @Technocolabs100 as a Machine Learning Engineer.</p>
-<p> We are working on a project that classifies popular and unpopular songs using XGBoost Classifier and SVM. The goal of this project is to develop a machine-learning classification model that can make accurate predictions.</p>
+<p> I'm currently an AI algorithms, platforms, and technology Trainee @Ericsson.</p>
+<p> We are working on a telecom-related project that classifies and predicts the traffic volume of users' end devices in the covered areas. The goal of this project is to develop a machine-learning regression model between the traffic volume and the RSRP values.</p>
 
 <p> I am excited to continue working on this project and to see what the future holds.</p>
 <br>
@@ -33,6 +33,8 @@
 
 <img  src="https://water-data-explorer.readthedocs.io/en/v.1.1.4/_images/colab_icon.png" alt="GoogleColab" width="50" height="50"/> &nbsp;
 <img  src="https://smartai-blog.com/content/images/2021/03/jupyter-logo-2-1.png" alt="Jupyter" width="50" height="50"/> &nbsp;
+<img  src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50"/> &nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="PowerBi" width="50" height="50"/> &nbsp;
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Jupyter" width="50" height="50"/> &nbsp;
 <img  src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="50" height="50"/> &nbsp;
 <img  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="50" height="50"/> &nbsp;
