@@ -7,8 +7,8 @@
 <br>
 
 <h3 align="left">Current Focus👩🏻‍💻</h3>
-<p> I'm currently an AI algorithms, platforms, and technology Trainee @Ericsson.</p>
-<p> We are working on a telecom-related project that classifies and predicts the traffic volume of users' end devices in the covered areas. The goal of this project is to develop a machine-learning regression model between the traffic volume and the RSRP values.</p>
+<p> I'm currently an Mobile Flutter Trainee @Information Technology Institute (ITI).</p>
+<p> I'm working on (designing UI, state managing, and managing the database) of a Courses Mobile Application project (Top Courses) that provides users with information about available courses at different institutions of different categories.</p>
 
 <p> I am excited to continue working on this project and to see what the future holds.</p>
 <br>
