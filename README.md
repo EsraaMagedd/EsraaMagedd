@@ -7,15 +7,16 @@
 <br>
 
 <h3 align="left">Current Focus👩🏻‍💻</h3>
-<p> I'm currently an Mobile Flutter Trainee @Information Technology Institute (ITI).</p>
-<p> I'm working on (designing UI, state managing, and managing the database) of a Courses Mobile Application project (Top Courses) that provides users with information about available courses at different institutions of different categories.</p>
+<p> I'm currently a Flutter Instructor @MobJoy community.</p>
+<p> I am overjoyed to share my knowledge of Flutter with the trainees and help them start their journey to become successful Flutter developers.</p>
 
-<p> I am excited to continue working on this project and to see what the future holds.</p>
+<p> I am excited to continue working on this training and to see what the future holds.</p>
 <br>
 
 <h3 align="left">Skills🤹🏻‍♀️</h3>
 <ul>
 <li>Git - GitHub</li>
+<li>AI tools - Streamlit& PowerBI</li>
 <li>Programming Languages:</li>
 <ul>
 <li>Dart – Flutter</li>
