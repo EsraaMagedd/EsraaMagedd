@@ -7,10 +7,12 @@
 <br>
 
 <h3 align="left">Current Focus👩🏻‍💻</h3>
-<p> I'm currently a Flutter Instructor @MobJoy community.</p>
-<p> I am overjoyed to share my knowledge of Flutter with the trainees and help them start their journey to become successful Flutter developers.</p>
+<p> I am currently channeling my efforts into the development of my graduation project, the "Healtha" mobile app. Leveraging the Flutter framework, I am dedicated to creating a robust and user-friendly application that incorporates advanced machine learning modules.</p>
 
-<p> I am excited to continue working on this training and to see what the future holds.</p>
+<p> My enthusiasm lies in the intricate process of crafting Healtha, which aims to address health-related challenges through innovative technology. As I navigate the complexities of mobile app development and machine learning integration, I am excited about the possibilities and impact this project can have on the healthcare landscape.</p>
+
+<p> The future holds exciting prospects as I work diligently towards the successful completion and deployment of the Healtha app.</p>
+
 <br>
 
 <h3 align="left">Skills🤹🏻‍♀️</h3>
