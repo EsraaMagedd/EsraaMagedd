@@ -69,11 +69,10 @@
 <p>I am always looking for new opportunities to learn and grow. If you have any questions or if you would like to collaborate on a project, please feel free to contact me.</p>
 
 <p align="center">
-  <i>Let's connect! Open to any contribution under the sun.</i>
+  <i>Let's connect!</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/esraa-nassar-28337115b/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
      <a href="esraamaged21664@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    
     
   </p>
