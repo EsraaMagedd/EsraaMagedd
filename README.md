@@ -30,7 +30,10 @@
 </ul>
 <li>Problem-solving – Codeforces</li>
 </ul>
-<br>
+<be>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraamagedd&show_icons=true&locale=en&layout=compact" alt="Esraamagedd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esraamagedd&" alt="Esraamagedd" /></p>
 
 <h3 align="left">My toolbox🧰</h3> <br>
 
