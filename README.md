@@ -2,11 +2,11 @@
   <img src="https://github.com/EsraaMagedd/EsraaMagedd/blob/main/avatarMe.jpg" align="right" width="25%"/>
 
 
-<h3 align="left">About me💁🏻</h3>
+<h3 align="left">About me 💁🏻</h3>
 <p>I am a computer science student at the University of Sadat City who is passionate about building software. I am particularly interested in developing mobile applications and building AI/ML models. I am always looking for new challenges and I am always willing to learn new things.</p>
 <br>
 
-<h3 align="left">Current Focus👩🏻‍💻</h3>
+<h3 align="left">Current Focus 👩🏻‍💻</h3>
 <p> I am currently channeling my efforts into the development of my graduation project, the "Healtha" mobile app. Leveraging the Flutter framework, I am dedicated to creating a robust and user-friendly application that incorporates advanced machine learning modules.</p>
 
 <p> My enthusiasm lies in the intricate process of crafting Healtha, which aims to address health-related challenges through innovative technology. As I navigate the complexities of mobile app development and machine learning integration, I am excited about the possibilities and impact this project can have on the healthcare landscape.</p>
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 align="left">Skills🤹🏻‍♀️</h3>
+<h3 align="left">Skills 🤹🏻‍♀️</h3>
 <ul>
 <li>Git - GitHub</li>
 <li>AI tools - Streamlit& PowerBI</li>
@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esraamagedd&" alt="Esraamagedd" /></p>
 
-<h3 align="left">My toolbox🧰</h3> <br>
+<h3 align="left">My toolbox 🧰</h3> <br>
 
 <img  src="https://water-data-explorer.readthedocs.io/en/v.1.1.4/_images/colab_icon.png" alt="GoogleColab" width="50" height="50"/> &nbsp;
 <img  src="https://smartai-blog.com/content/images/2021/03/jupyter-logo-2-1.png" alt="Jupyter" width="50" height="50"/> &nbsp;
