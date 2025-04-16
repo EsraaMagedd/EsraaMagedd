@@ -3,15 +3,21 @@
 
 
 <h3 align="left">About me 💁🏻</h3>
-<p>I am a computer science student at the University of Sadat City who is passionate about building software. I am particularly interested in developing mobile applications and building AI/ML models. I am always looking for new challenges and I am always willing to learn new things.</p>
+<p>
+I'm a Computer Science MSc student at Menoufia University, a Teaching Assistant at the Faculty of Computers and Artificial Intelligence, and a former instructor at The Arab Academy for Management, Banking, and Financial Sciences. <br><br>
+I’m passionate about building software that makes an impact. My interests span across mobile development, machine learning, and solving real-world problems through intelligent systems. I'm always eager to learn, collaborate, and explore new ideas.
+</p>
 <br>
 
 <h3 align="left">Current Focus 👩🏻‍💻</h3>
-<p> I am currently channeling my efforts into the development of my graduation project, the "Healtha" mobile app. Leveraging the Flutter framework, I am dedicated to creating a robust and user-friendly application that incorporates advanced machine learning modules.</p>
+<p>
+I'm currently focused on supporting students academically, contributing to research in artificial intelligence, and expanding my skill set in both teaching and development.
+</p>
 
-<p> My enthusiasm lies in the intricate process of crafting Healtha, which aims to address health-related challenges through innovative technology. As I navigate the complexities of mobile app development and machine learning integration, I am excited about the possibilities and impact this project can have on the healthcare landscape.</p>
+<p>
+Previously, I led the development of <b>Healtha</b>—a mobile app built using Flutter that leverages machine learning to simplify and explain medical lab results. This project holds a special place in my journey, reflecting my commitment to blending AI with accessible healthcare.
+</p>
 
-<p> The future holds exciting prospects as I work diligently towards the successful completion and deployment of the Healtha app.</p>
 
 <br>
 
