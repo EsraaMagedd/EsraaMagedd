@@ -4,7 +4,7 @@
 
 <h3 align="left">About me 💁🏻</h3>
 <p>
-I'm a Computer Science MSc student at Menoufia University, a Teaching Assistant at the Faculty of Computers and Artificial Intelligence, and a former instructor at The Arab Academy for Management, Banking, and Financial Sciences. <br><br>
+I'm a Computer Science MSc student at Menoufia University, a Teaching Assistant at the Faculty of Computers and Artificial Intelligence, and SAS instructor at The Arab Academy for Management, Banking, and Financial Sciences. <br><br>
 I’m passionate about building software that makes an impact. My interests span across mobile development, machine learning, and solving real-world problems through intelligent systems. I'm always eager to learn, collaborate, and explore new ideas.
 </p>
 <br>
